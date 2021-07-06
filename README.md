@@ -25,12 +25,6 @@ $ ls
 $ chmod 777 phonia.sh
 
 $ ./phonia.sh
-
-$ ls
-
-$ chmod 777 requirements.txt
-
-$ python -m pip install -r requirements.txt
 ```
 
 #### Hasta aquí, ya hemos instalado correctamente la herramienta, para ejecutarla debemos usar el siguiente comando combinado con el número telefónico de la víctima sin el (+), Ejemplo:
