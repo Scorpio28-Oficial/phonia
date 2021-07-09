@@ -26,3 +26,8 @@ $ ./phonia.sh
 #### Hasta aquí, ya hemos instalado correctamente la herramienta, para ejecutarla debemos usar el siguiente comando combinado con el número telefónico de la víctima sin el (+), Ejemplo:
 
 $ python phonia -p 593999433835
+
+### Captura
+<p align="center">
+	<img src="https://i.imgur.com/5ijkGlj.jpg" width="600px">
+</p>
