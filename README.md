@@ -27,7 +27,7 @@ $ ./phonia.sh
 
 $ python phonia -p 593999433835
 
-### Captura
+### Captura Digitos Vensurados
 <p align="center">
 	<img src="https://i.imgur.com/4s9V34R.jpg" width="600px">
 </p>
