@@ -29,5 +29,5 @@ $ python phonia -p 593999433835
 
 ### Captura
 <p align="center">
-	<img src="https://i.imgur.com/43qXi6k.jpg" width="600px">
+	<img src="Phonia https://i.imgur.com/4s9V34R.jpg" width="600px">
 </p>
